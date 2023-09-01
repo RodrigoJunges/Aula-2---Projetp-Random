@@ -8,7 +8,7 @@ function genareteNumber(){
 
     if(min >= max)
         {
-            alert('o Valor mínimo tem que ser menor que o valor máximo.')
+            alert('O Valor mínimo tem que ser menor que o valor máximo.')
         }else
 
         {
